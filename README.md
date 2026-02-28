@@ -75,4 +75,4 @@ python student_result_system.py
 - Add AI-based performance prediction
 
 ## 👨‍💻 Author
-Your Name Here
+Abdul Sami Khan
